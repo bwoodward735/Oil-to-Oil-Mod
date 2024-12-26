@@ -7,6 +7,7 @@ Cooking oil torch requires 0.15L of cooking oil per torch, or 6 torches for 0.75
 Animal fat torch uses 0.20kg of animal fat, and takes 20 minutes to craft.
 
 # Oil to Oil Mod
+### This mod is deprecated.  Please do not use it.
 
 ## Requirements
 Both mods require ModComponent.
